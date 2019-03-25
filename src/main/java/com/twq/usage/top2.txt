@@ -1,0 +1,6 @@
+shanghai	50
+nanjing	400
+jinan	555
+kaifeng	23
+jiyang	44
+suzhou	567
